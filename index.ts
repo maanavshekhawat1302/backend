@@ -20,7 +20,7 @@ const app = express();
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    "https://dapper-biscochitos-fd7018.netlify.app"
+    "https://eloquent-torrone-32482d.netlify.app"
   ],
   credentials: true,
 }));
